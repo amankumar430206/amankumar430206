@@ -1,6 +1,6 @@
 # Hi there, I'm Aman Vishwakarma 👋
 
-**Sr. Software Engineer** | Building Scalable Web Solutions | 3+ Years Experience
+**Sr. Software Engineer** | Building Scalable Web Solutions
 
 Passionate about delivering innovative engineering solutions with a focus on performance, scalability, and clean code architecture.
 
