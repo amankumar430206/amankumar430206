@@ -111,36 +111,6 @@ Infra: Docker (Node 20 Alpine) · Cluster multi-worker
 
 <br/>
 
-## Professional Experience
-
-```
-Nov 2024 ─────────────────────────────────────── Present
-│
-▼  Sr. Software Engineer @ Stackintel
-   Product: FinFan — Neobanking & Cross-Border Finance
-   ├─ Led Card Processor, Expense Management & Cross-Border Payment modules
-   ├─ Architected AWS: EC2, S3, CloudFront, CodeBuild, CodePipeline, ECS, Lambda, ELB, ASG
-   ├─ 80% reduction in deployment time via CI/CD overhaul
-   ├─ 35% reduction in critical production bugs
-   ├─ 250+ code reviews · Engineering team mentorship
-   └─ 100,000+ daily transactions handled
-
-Jul 2024 ──────────────────────────────────── Nov 2024
-│
-▼  Software Engineer @ Velotio Technologies
-   ├─ Built prospect tracking tools & automated BR&E workflows
-   └─ Advanced form handling: react-hook-form + Zod schema validation
-
-Nov 2022 ──────────────────────────────────── Jun 2024
-│
-▼  Software Engineer @ Trukker Technologies
-   ├─ Migrated legacy JSP → React (90% performance improvement)
-   ├─ Multi-region routing: UAE, KSA, Egypt
-   └─ Containerized infra: Docker, Kubernetes, Azure AKS
-```
-
-<br/>
-
 ## Tech Stack
 
 <div align="center">
