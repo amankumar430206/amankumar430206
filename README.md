@@ -32,7 +32,7 @@ currently_building:
   ngn_360seel:   Student mental health & skill assessment platform
 
 at_work:
-  company: Flipkart(VC) SDE 2
+  company: Flipkart(VC)
 ```
 
 <br clear="right"/>
